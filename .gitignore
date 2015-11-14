@@ -49,5 +49,6 @@ pip-log.txt
 
 bin/
 Output/
+Testing/
 *.~is
 *.xlsx

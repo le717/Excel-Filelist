@@ -13,8 +13,6 @@ Licensed under The MIT License
 
 
 import os
-import sys
-import zipfile
 from cx_Freeze import (setup, Executable)
 
 
